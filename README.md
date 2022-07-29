@@ -1,4 +1,4 @@
-- 👋 Hi, I’m abderehmen
+- 👋 Hi, I’m rahim
 - 👀 Mern js is my basic teck stack 
 - 🌱 I’m currently developing an app with mern 
 - 💞️ I’m looking to collaborate on a web development team 
