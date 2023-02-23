@@ -1,3 +1,1 @@
-- 👋 Hi, I’m rahim
-- 👀 Mern js is my basic teck stack 
-- 🌱 I’m currently developing an app with mern 
+mern stack // typescript
